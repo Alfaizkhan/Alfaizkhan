@@ -39,4 +39,11 @@ Currently working as Software Engineer II in Vadodara, Gujarat, India.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br/>
 <br/>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=alfaizkhan&show_icons=true&theme=gotham" alt="alfaizkhan" />
+
+<a href="github.com/Alfaizkhan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaizkhan&theme=gotham&hide_langs_below=1" />
+</a>
+<a href="github.com/Alfaizkhan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfaizkhan&show_icons=true&theme=gotham&line_height=27" alt="roshan's github stats"/>
+</a>
+
