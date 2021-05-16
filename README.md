@@ -22,7 +22,7 @@ Currently working as Software Engineer II in Vadodara, Gujarat, India.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/code.gif?raw=true" width="320" height="200" />
 
-- 📫 How to reach me: [@Alfaizkhan](https://www.linkedin.com/in/alfaizkhan/);
+- 📫 How to reach me: [@Alfaizkhan](https://www.linkedin.com/in/alfaizkhan/)
 - 📝 [Resume]()
 
 <br/>
