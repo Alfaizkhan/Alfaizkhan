@@ -20,7 +20,7 @@ I have been writing code for threee years now. I started off with Basics of C/C+
 
 Currently working as Software Engineer II in Vadodara, Gujarat, India.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/code.gif?raw=true" width="320" height="160" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/code.gif?raw=true" width="320" height="200" />
 
 - 📫 How to reach me: [@Alfaizkhan](https://www.linkedin.com/in/alfaizkhan/);
 - 📝 [Resume]()
