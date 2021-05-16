@@ -40,9 +40,9 @@ Currently working as Software Engineer II in Vadodara, Gujarat, India.
 <br/>
 <br/>
 
-<a href="github.com/Alfaizkhan">
+<!--  <a href="github.com/Alfaizkhan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaizkhan&theme=gotham&hide_langs_below=1" />
-</a>
+</a> -->
 <a href="github.com/Alfaizkhan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfaizkhan&show_icons=true&theme=gotham&line_height=27" alt="roshan's github stats"/>
 </a>
