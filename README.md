@@ -9,6 +9,9 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/code.gif?raw=true" width="380" height="260" />
 
+<br/>
+<br/>
+
 - 📫 How to reach me: [@Alfaizkhan](https://www.linkedin.com/in/alfaizkhan/)
 - 📝 [Resume]()
 
