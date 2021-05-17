@@ -7,7 +7,7 @@
 **I love Android and Flutter development   :blue_heart:**
 
 <br/>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/code.gif?raw=true" width="360" height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/code.gif?raw=true" width="390" height="260" />
 
 - 📫 How to reach me: [@Alfaizkhan](https://www.linkedin.com/in/alfaizkhan/)
 - 📝 [Resume]()
