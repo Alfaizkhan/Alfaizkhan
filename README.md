@@ -1,18 +1,13 @@
-### Hi there, I'm [Alfaizkhan!](alfaizkhan.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
+## Hi there, I'm [Alfaizkhan!](alfaizkhan.github.io) :wave:
 
-I am energetic and geek who loves his job. I live and breathe all the technologies I work with.
+**I am very energetic and motivated about learning new things and having some new experiences. Eager to put my skills‍ and solve problems in collaboration with creative people in an organised team.**
+
+**I am energetic and geek who loves his job. I live and breathe all the technologies I work with.**
+
+**I love Android and Flutter development   :blue_heart:**
 
 <br/>
-
-Hi, I'm [Alfaizkhan Pathan](alfaizkhan.github.io), a passionate self-taught Android and Flutter developer and a freelance software engineer from India. 
-
-I have completed my bachelors from Parul University, Vadodara in Computer Science and Engineering with CPI of 7.23 out of 10.
-
-I have been writing code for threee years now. I started off with Basics of C/C++ and progressed to Java for Android Apps, web-applications and Back-end.
-
-Currently working as Software Engineer II in Vadodara, Gujarat, India.
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/code.gif?raw=true" width="320" height="200" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/code.gif?raw=true" width="400" height="320" />
 
 - 📫 How to reach me: [@Alfaizkhan](https://www.linkedin.com/in/alfaizkhan/)
 - 📝 [Resume]()
