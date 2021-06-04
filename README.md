@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-- 📫 How to reach me: [@Alfaizkhan](https://www.linkedin.com/in/alfaizkhan/)
+- 📫 How to reach me: [@Alfaizkhan](https://www.linkedin.com/in/alfaizkhan/)😎
 - 📝 [Resume]()
 
 <br/>
