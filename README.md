@@ -1,48 +1,30 @@
 ## Hi there, I'm [Alfaizkhan!](alfaizkhan.github.io) :wave:
 
-**I am very energetic and motivated about learning new things and having some new experiences. Eager to put my skills‍ and solve problems in collaboration with creative people in an organised team.**
-
-**I am energetic and geek who loves his job. I live and breathe all the technologies I work with.**
+Hi! I'm a mobile application developer, excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects and products. I'm specializing in the development of Android applications and work on many applications, from simple single-screen applications to large applications. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, MVP, MVI, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
 
 **I love Android and Flutter development   :blue_heart:**
 
+- You can reach me via LinkedIn <a href="https://www.linkedin.com/in/alfaizkhan/">
+  <img align="left" alt="Alfaizkhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/code.gif?raw=true" width="380" height="260" />
+# About me in a few words:
+- Proficient with Java/Kotlin/Android SDK
+- Experience in developing, releasing and maintaining high-quality apps
+- Easy adaptive to business or any requirements
 
-<br/>
-<br/>
+# Key things I've dealt with:
+- Jetpack Compose 
+- Clean Architecture
+- Google Architecture components
+- MVP/MVVM/MVI
+- Single Activity
+- Dagger
+- Firebase/Room/SQLite/MySql
+- RxJava/Coroutines
+- GoogleMap/Mapbox
+- Retrofit/Volley
+- Sockets 
 
-- 📫 How to reach me: [@Alfaizkhan](https://www.linkedin.com/in/alfaizkhan/)😎
-- 📝 [Resume]()
+<br/>![Alfaizkhan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaizkhan&layout=compact&theme=radical)<br/>
 
-<br/>
-<a href="https://www.linkedin.com/in/alfaizkhan/">
-  <img align="left" alt="Alfaizkhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://twitter.com/i_m_alfaizkhan">
-  <img align="center" alt="Alfaizkhan Pathan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<br/>
-<br/>
-<br/>
-
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br/>
-<br/>
-<br/>
-<!--  <a href="github.com/Alfaizkhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaizkhan&theme=gotham&hide_langs_below=1" />
-</a> -->
-<a href="github.com/Alfaizkhan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfaizkhan&show_icons=true&theme=gotham&line_height=27" alt="roshan's github stats"/>
-</a>
-
+![Metrics](https://metrics.lecoq.io/Alfaizkhan)
