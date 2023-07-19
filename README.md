@@ -4,10 +4,12 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif"><img src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/alfaizkhan_readme.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
 
+
 <a href="https://www.linkedin.com/in/alfaizkhan/">
-<img align="left" alt="Alfaizkhan's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> You can reach me via LinkedIn 
+<img align="left" alt="Alfaizkhan's LinkedIN" width="64px" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/linkedin.png" /> You can reach me via LinkedIn 
 </a>
-<br/><br/><br/>
+
+<br><br><br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
