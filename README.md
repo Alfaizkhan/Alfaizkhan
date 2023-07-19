@@ -19,21 +19,17 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 # About me in a few words:
-- Proficient with Java/Kotlin/Android SDK
-- Experience in developing, releasing and maintaining high-quality apps
-- Easy adaptive to business or any requirements
+- Proficient with Flutter/Java/Android SDK.
+- Experience in developing, releasing and maintaining high-quality apps.
+- Easy adaptive to business or any requirements.
 
 # Key things I've dealt with:
-- Jetpack Compose 
+- Flutter
 - Clean Architecture
 - Google Architecture components
-- MVP/MVVM/MVI
-- Single Activity
-- Dagger
+- MVP/MVVM
 - Firebase/Room/SQLite/MySql
-- RxJava/Coroutines
 - GoogleMap/Mapbox
-- Retrofit/Volley
 - Sockets 
   
 <br/>![Alfaizkhan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaizkhan&layout=compact&theme=radical)<br/>
