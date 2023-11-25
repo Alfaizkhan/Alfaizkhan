@@ -2,12 +2,7 @@
 
 Hi! I'm a mobile application developer, excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects and products. I'm specializing in the development of Android applications and work on many applications, from simple single-screen applications to large applications. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, MVP, MVI, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif"><img src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/alfaizkhan_readme.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
-
-
-<a href="https://www.linkedin.com/in/alfaizkhan/">
-<img align="left" alt="Alfaizkhan's LinkedIN" width="64px" src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/linkedin.png" /> You can reach me via LinkedIn 
-</a>
+<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/flutter_development.gif"><img src="https://raw.githubusercontent.com/Alfaizkhan/Alfaizkhan/main/flutter_development.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
 
 <br><br><br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -26,12 +21,10 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 # Key things I've dealt with:
 - Flutter
 - Clean Architecture
+- Material Design
 - Google Architecture components
-- MVP/MVVM
-- Firebase/Room/SQLite/MySql
+- BLOC / GetX / MVP / MVVM
+- Firebase / Room / SQLite / MySql
 - GoogleMap/Mapbox
-- Sockets 
-  
-<br/>![Alfaizkhan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfaizkhan&layout=compact&theme=radical)<br/>
-
-![Metrics](https://metrics.lecoq.io/Alfaizkhan)
+- Web Sockets
+- IOT
