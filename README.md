@@ -14,9 +14,23 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 # About me in a few words:
-- Proficient with Flutter/Java/Android SDK.
-- Experience in developing, releasing and maintaining high-quality apps.
-- Easy adaptive to business or any requirements.
+I am a seasoned mobile application developer with over 5 years of expertise in mobile application development, I specialise in Android Native, Flutter, and Xamarin Cross-Platform technologies. My work focuses on crafting innovative, high-performance mobile applications that meet user and business needs while adhering to the highest quality standards. 
+
+### Core Competencies: 
+- Advanced proficiency in Android Studio, Java, Dart, and the Flutter Framework.
+- Integration of SQLite, RESTful APIs, and extensive use of Firebase Services (Authentication, Realtime Database, Cloud Functions, FCM, Crashlytics, and more). 
+- Skilled in Google Maps APIs (routes, navigation, and directions) and payment gateway integration such as Stripe. 
+- Expertise in source control management with Git (GitHub, GitLab, Bitbucket) and automating workflows using CI/CD pipelines. 
+- Deep understanding of the mobile app development lifecycle, architecture, and emerging trends. 
+- Strong debugging and problem-solving skills to deliver error-free applications. 
+
+### Key Contributions: 
+- Successfully collaborated with cross-functional teams, including designers and QA professionals, to deliver seamless and intuitive user experiences. 
+- Ensured app responsiveness and performance through thorough testing and debugging before release. 
+- Delivered scalable and maintainable applications by adhering to clean coding principles and best practices. 
+- Proactively stayed ahead of mobile development trends to incorporate cutting-edge features into apps. 
+
+Driven by a passion for technology and user-focused design, I excel at transforming ideas into impactful mobile solutions that enhance user satisfaction and business growth.
 
 # Key things I've dealt with:
 - Flutter
@@ -28,3 +42,4 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 - GoogleMap/Mapbox
 - Web Sockets
 - IOT
+- MongoDB / Supabase
