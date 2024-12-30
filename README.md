@@ -33,13 +33,11 @@ I am a seasoned mobile application developer with over 5 years of expertise in m
 Driven by a passion for technology and user-focused design, I excel at transforming ideas into impactful mobile solutions that enhance user satisfaction and business growth.
 
 # Key things I've dealt with:
-- Flutter
-- Clean Architecture
-- Material Design
-- Google Architecture components
+- Flutter, Android, iOS, React-Native
+- Clean Architecture /  Material Design
+- Test Driven Development
 - BLOC / GetX / MVP / MVVM
 - Firebase / Room / SQLite / MySql
-- GoogleMap/Mapbox
-- Web Sockets
-- IOT
+- GCP / AWS
+- Web Sockets / IOT
 - MongoDB / Supabase
